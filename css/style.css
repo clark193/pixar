@@ -103,3 +103,21 @@ body {
   font-size: 14px;
   color: #555;
 }
+
+.sound-btn {
+  margin-top: 30px;
+  padding: 12px 20px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+
+.sound-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
